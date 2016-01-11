@@ -25,4 +25,4 @@ int main()
 
 ## Screenshot:
 
-[!screenshot](https://github.com/rockiejardi/LBYEC72-Practice/blob/master/Capture%201.PNG)
+![screenshot](https://github.com/rockiejardi/LBYEC72-Practice/blob/master/Capture%201.PNG)
